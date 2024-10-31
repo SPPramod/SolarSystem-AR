@@ -36,7 +36,7 @@
 ## Screenshots
 
 ![Solar System AR](https://github.com/SPPramod/SolarSystem-AR/blob/ce9b94e957e0a48c23aa04bd131edb6172503edd/SolarSystemsAR.jpeg)
-Assets/Assets/Saturn/WhatsApp Image 2024-10-31 at 13.49.35 (1).jpeg
+![Earth AR](https://github.com/SPPramod/SolarSystem-AR/blob/8153a8d1691a9f23cd03b02e701f0286a3df0edc/EarthAR.jpeg)
 
 ---
 
