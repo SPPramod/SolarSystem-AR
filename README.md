@@ -30,7 +30,6 @@
 - **Unity Engine (C#)**: Development platform for creating AR experiences.
 - **Vuforia SDK / ARKit / ARCore**: AR technology to render the Solar System in real-world environments.
 - **3D Modeling**: Realistic models of planets to enhance the AR experience.
-- **JavaScript & JSON**: For interactivity and data handling.
   
 ---
 
@@ -40,5 +39,5 @@ To install and run **Solar System AR**, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/SPPramod/SolarSystem-ar.git
-   cd SolarSystem-ar
+   git clone https://github.com/SPPramod/SolarSystem-AR.git
+   cd SolarSystem-AR
