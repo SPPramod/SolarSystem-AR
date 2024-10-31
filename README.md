@@ -40,6 +40,12 @@
 
 ---
 
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
 ## Installation
 
 To install and run **Solar System AR**, follow these steps:
