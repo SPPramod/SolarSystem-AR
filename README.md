@@ -46,6 +46,23 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
+## Usage
+
+1. **Launch the App**: Open the **Solar System AR** app on your device.
+   
+2. **Grant Camera Access**: Allow the app to access your camera to enable AR features.
+
+3. **Point Your Camera at a Flat Surface**: Move your device around slowly, aiming the camera at a flat surface until the Solar System appears in your environment.
+
+4. **Place the Solar System**: Once detected, tap to place the Solar System model in your desired spot.
+
+5. **Solar System Overview**: For a broader perspective, switch to an overview mode (if available) to see the relative positions and sizes of each planet.
+
+6. **Exit the AR Experience**: Simply close the app or go back to return to your device’s main screen.
+**Note**: For the best experience, use the app in a well-lit area with a clear, flat surface to enhance AR tracking accuracy.
+
+---
+
 ## Installation
 
 To install and run **Solar System AR**, follow these steps:
@@ -54,3 +71,13 @@ To install and run **Solar System AR**, follow these steps:
    ```bash
    git clone https://github.com/SPPramod/SolarSystem-AR.git
    cd SolarSystem-AR
+
+---
+
+## Contact
+
+For any inquiries or feedback, please contact:
+
+- **Sathya Pushana Pramod**: [pushanapramod@gmail.com](mailto:pushanapramod@gmail.com)
+- **GitHub**: [SPPramod](https://github.com/SPPramod)
+
